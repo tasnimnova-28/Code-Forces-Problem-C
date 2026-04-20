@@ -1,6 +1,1 @@
-A 
-B B 
-C C C 
-D D D D 
-E E E E E 
-F F F F F F 
+6 5 4 3 2 1 
