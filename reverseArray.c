@@ -1,3 +1,7 @@
+//Display the elements of an array in reverse order.
+
+
+
 #include<stdio.h>
 int main(){
     int n;
